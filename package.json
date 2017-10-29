@@ -1,0 +1,14 @@
+{
+  "name": "manual-express",
+  "version": "0.0.0",
+  "description": "manual seguido de: https://www.tutorialspoint.com/expressjs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
